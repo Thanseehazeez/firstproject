@@ -1,0 +1,20 @@
+.container>div{
+    padding: 10px;
+    text-align: center;
+    font-size: 2em;
+    color: blueviolet
+}
+body{
+    background-color: white;
+    margin: 10px;
+}
+
+.container{
+    border: 5px solid brown;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.container logo{
+    width: 12%;
+}
